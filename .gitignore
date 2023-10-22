@@ -3,6 +3,7 @@
 # dependencies
 beekin-frontend/node_modules/
 beekin-frontend/.pnp
+beekin-frontend/.env
 beekin-frontend/.pnp.js
 
 beekin-frontend/coverage
@@ -18,4 +19,26 @@ beekin-frontend/.env.production.local
 beekin-frontend/npm-debug.log*
 beekin-frontend/yarn-debug.log*
 beekin-frontend/yarn-error.log*
+
+# Backend ignores
+
+# dependencies
+beekin-backend/node_modules/
+beekin-backend/.pnp
+beekin-backend/.env
+beekin-backend/.pnp.js
+
+beekin-backend/coverage
+
+beekin-backend/build
+
+beekin-backend/.DS_Store
+beekin-backend/.env.local
+beekin-backend/.env.development.local
+beekin-backend/.env.test.local
+beekin-backend/.env.production.local
+
+beekin-backend/npm-debug.log*
+beekin-backend/yarn-debug.log*
+beekin-backend/yarn-error.log*
 
