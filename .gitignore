@@ -1,21 +1,21 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-./beekin-frontend/node_modules
-./beekin-frontend/.pnp
-./beekin-frontend/.pnp.js
+beekin-frontend/node_modules/
+beekin-frontend/.pnp
+beekin-frontend/.pnp.js
 
-./beekin-frontend/coverage
+beekin-frontend/coverage
 
-./beekin-frontend/build
+beekin-frontend/build
 
-./beekin-frontend/.DS_Store
-./beekin-frontend/.env.local
-./beekin-frontend/.env.development.local
-./beekin-frontend/.env.test.local
-./beekin-frontend/.env.production.local
+beekin-frontend/.DS_Store
+beekin-frontend/.env.local
+beekin-frontend/.env.development.local
+beekin-frontend/.env.test.local
+beekin-frontend/.env.production.local
 
-./beekin-frontend/npm-debug.log*
-./beekin-frontend/yarn-debug.log*
-./beekin-frontend/yarn-error.log*
+beekin-frontend/npm-debug.log*
+beekin-frontend/yarn-debug.log*
+beekin-frontend/yarn-error.log*
 
