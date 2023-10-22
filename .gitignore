@@ -23,7 +23,7 @@ beekin-frontend/yarn-error.log*
 # Backend ignores
 
 # dependencies
-beekin-backend/node_modules/
+beekin-backend/node_modules
 beekin-backend/.pnp
 beekin-backend/.env
 beekin-backend/.pnp.js
